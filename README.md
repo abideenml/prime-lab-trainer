@@ -7,9 +7,6 @@ You describe the task. Claude writes the environment, validates it, pushes it to
 <img width="1100" height="566" alt="image" src="https://github.com/user-attachments/assets/3b7bfe6c-44b7-47ae-bf5d-b4f166e5b3b3" />
 <img width="1098" height="561" alt="image" src="https://github.com/user-attachments/assets/41504ca3-66ef-4d89-b0c2-3b600f6554be" />
 <img width="1106" height="482" alt="image" src="https://github.com/user-attachments/assets/b4abf618-7b23-415a-94ad-a2631bd1eeb1" />
-<img width="1164" height="690" alt="image" src="https://github.com/user-attachments/assets/55a41fac-502b-449e-9ec8-7ed787010190" />
-
-
 
 
 ---
