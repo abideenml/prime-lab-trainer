@@ -3,6 +3,14 @@
 A Claude Code skill that builds, validates, and submits RL training environments on [Prime Intellect Lab](https://app.primeintellect.ai) — from any HuggingFace dataset to a live GRPO training run, fully automated.
 
 You describe the task. Claude writes the environment, validates it, pushes it to the Hub, and submits a hosted GRPO training run.
+<img width="1104" height="306" alt="image" src="https://github.com/user-attachments/assets/1db1df3d-fb55-49a3-8cd8-6aca019a0f9f" />
+<img width="1100" height="566" alt="image" src="https://github.com/user-attachments/assets/3b7bfe6c-44b7-47ae-bf5d-b4f166e5b3b3" />
+<img width="1098" height="561" alt="image" src="https://github.com/user-attachments/assets/41504ca3-66ef-4d89-b0c2-3b600f6554be" />
+<img width="1106" height="482" alt="image" src="https://github.com/user-attachments/assets/b4abf618-7b23-415a-94ad-a2631bd1eeb1" />
+<img width="1164" height="690" alt="image" src="https://github.com/user-attachments/assets/55a41fac-502b-449e-9ec8-7ed787010190" />
+
+
+
 
 ---
 
