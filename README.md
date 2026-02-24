@@ -10,7 +10,7 @@ You describe the task. Claude writes the environment, validates it, pushes it to
 
 Given a prompt like:
 
-> *"Build an environment for cais/mmlu abstract algebra, use Qwen/Qwen3-30B-Instruct-2507, 1000 steps, and submit."*
+> *"Build an environment for cais/mmlu abstract algebra, use Qwen/Qwen3-30B-Instruct-2507, 1000 steps, and submit the training job."*
 
 Claude autonomously:
 
@@ -51,7 +51,7 @@ prime login    # opens browser → authenticates everything
 ## Quickstart
 
 ```bash
-git clone https://github.com/your-username/prime-lab-trainer
+git clone https://github.com/abideen/prime-lab-trainer
 cd prime-lab-trainer
 pip install prime verifiers datasets
 prime login
